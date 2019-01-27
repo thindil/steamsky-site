@@ -51,10 +51,18 @@ available on Linux and Windows 64 bit platforms.
     enemies armor to board they ships for melee combat for even better loot. If
     enemy is too strong for you, you can try escape from combat too.
 
-## <a name="downloads"></a>Downloads
-- Latest stable release: [3.0.3](https://github.com/thindil/steamsky/releases/tag/v3.0.3) (2019-01-06)
+- Your game, your way: change the game to your own style.
 
-- Latest development release: [3.2-dev](https://github.com/thindil/steamsky/releases/tag/v3.2-dev) (2018-12-30)
+    Almost everything in the game can be changed, added or removed via data
+    files, which are plain XML files. Add new "races" (factions), change
+    existing ships (their statistics, crew or cargo) or remove "professions"
+    (careers). Items and crafting recipes can be changed too. Even interface
+    can be tweaked to your needs.
+
+## <a name="downloads"></a>Downloads
+- Latest stable release: [3.0.4](https://github.com/thindil/steamsky/releases/tag/v3.0.4) (2019-01-20)
+
+- Latest development release: [3.3-dev](https://github.com/thindil/steamsky/releases/tag/v3.3-dev) (2019-01-27)
 
 - Last console (Linux only) release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
 
