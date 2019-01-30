@@ -18,10 +18,17 @@ You may connect to it directly from your browser here:
 
 ### IRC room
 
-If you prefer to use IRC, you can connect to Matrix room from IRC too. Just
+If you prefer to use IRC, you can connect to chat room from IRC too. Just
 point your favourite IRC client to
 
 [Steam Sky at Freenode.net](irc://chat.freenode.net/steamsky)
+
+### Gitter room
+
+[Gitter](https://gitter.im) is communicator similar to IRC or Matrix. You can
+enter Gitter room directly from your browser here:
+
+[Join Steam Sky Gitter room](https://gitter.im/steamsky/general)
 
 ### Discord channel
 
