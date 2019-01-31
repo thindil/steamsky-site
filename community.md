@@ -11,7 +11,7 @@ from list below.
 ### Matrix room
 
 [Matrix](https://matrix.org/) is a communicator similar to Discord or Slack.
-Main the game chat room there is [Steam Sky at Matrix.org](https://matrix.to/#/!iEoCFmXZiQAPrNkDdj:matrix.org?via=matrix.org)
+Main the game chat room is [Steam Sky at Matrix.org](https://matrix.to/#/!iEoCFmXZiQAPrNkDdj:matrix.org?via=matrix.org)
 You may connect to it directly from your browser here:
 
 [Join Steam Sky chat room](https://riot.im/app/#/room/!iEoCFmXZiQAPrNkDdj:matrix.org?via=matrix.org)
@@ -25,8 +25,10 @@ point your favourite IRC client to
 
 ### Gitter room
 
-[Gitter](https://gitter.im) is communicator similar to IRC or Matrix. You can
-enter Gitter room directly from your browser here:
+[Gitter](https://gitter.im) is communicator similar to IRC or Matrix,
+sometimes called *IRC for developers*. It is probably best place to follow
+game development from code perspective. You can enter Gitter room directly
+from your browser here:
 
 [Join Steam Sky Gitter room](https://gitter.im/steamsky/general)
 
@@ -36,6 +38,10 @@ And [Discord](https://discord.gg) text channel is available too. Just accept
 this invitation:
 
 [Join Discord Steam Sky channel](https://discord.gg/r5R8Mnx)
+
+### Chat archives
+
+Full chat archives are available to everyone [here](https://gitter.im/steamsky/general/archives/all)
 
 # Forum
 
