@@ -11,10 +11,10 @@ from list below.
 ### Matrix room
 
 [Matrix](https://matrix.org/) is a communicator similar to Discord or Slack.
-Main the game chat room is [Steam Sky at Matrix.org](https://matrix.to/#/!iEoCFmXZiQAPrNkDdj:matrix.org?via=matrix.org)
+Main the game chat room is [Steam Sky at Matrix.org](https://matrix.to/#/#steamsky:matrix.org)
 You may connect to it directly from your browser here:
 
-[Join Steam Sky chat room](https://riot.im/app/#/room/!iEoCFmXZiQAPrNkDdj:matrix.org?via=matrix.org)
+[Join Steam Sky chat room](https://riot.im/app/#/room/#steamsky:matrix.org)
 
 ### IRC room
 
