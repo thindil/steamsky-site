@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width">
       <link href="assets/css/style.css" rel="stylesheet" />
       <link href="assets/images/icon.png" rel="icon" type="image/png" />
-      <title>{%title%}</title>
+      <title>{%pagetitle%}</title>
    </head>
    <body>
       <header id="header">
@@ -15,7 +15,10 @@
       </header>
       <div id="page">
          <div id="content">
-            {%Content%}
+            @@TABLE@@
+               <h2><a name="{%id%}"></a>{%title%}</h2>
+               {%news%}
+            @@END_TABLE@@
          </div>
       </div>
       <footer id="footer">
