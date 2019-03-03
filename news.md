@@ -4,7 +4,11 @@
 -- id: []
 -- updated: []
 -- news: []
--- title: 2019-03-02
+-- title: Stable release: 3.0.6 2019-03-03
+-- id: 20190303
+-- updated: 2019-03-03T06:10:00Z
+-- news: <p>Stable version <a href="https://github.com/thindil/steamsky/releases/tag/v3.0.6">3.0.6</a> was released.</p>
+-- title: Weekly development report: 2019-03-02
 -- id: 20190302
--- updated: 2019-03-02T9:00:00Z
+-- updated: 2019-03-02T09:00:00Z
 -- news: <p>This week in the game development:</p><ul><li>Almost finished User Interface rework. Whole game looks bit darker than earlier, but main difference is removed last game message popup and showing window with last game messages everywhere. Of course, during trying to record some gameplay, few bugs was emerged from deep space :)</li><li>Game finally got full screen mode, with keyboard shortcuts, normally ground breaking change</li><li>A lot of small fixed, tweaks to UI, so, current game looks <a href="assets/images/201903020842.png">that</a></li><li>As usual, the development version of the game gained another few new NPC's ships.</li><li>By whole week there was no bug spotted in stable version, thus it is time for set new trap for them, called release, in next 24 hours. Just keep your eye on this page or on RogueBasin. Let's see how much bugs will be spotted this time :)</li><li>And this is the first news in the game page, yay.</ul>
