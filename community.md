@@ -39,6 +39,17 @@ this invitation:
 
 [Join Discord Steam Sky channel](https://discord.gg/r5R8Mnx)
 
+### Email
+
+You can participate in discussions in this rooms via email too. To do this,
+try to contact with me (or anyone who joined the Matrix room) and please write
+which email address will you want to subscribe to the room. You can unsubscribe
+from the chat any time by clicking on link in mail. More informations how to
+invite someone by email to the Matrix room, you can find [here](https://t2bot.io/email).
+
+**Note:** this email address will be visible to everyone on the Matrix room
+members list.
+
 ### Chat archives
 
 Full chat archives are available to everyone [here](https://gitter.im/steamsky/general/archives/all)
