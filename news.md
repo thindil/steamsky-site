@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/03/16
+-- id: 20190316
+-- updated: 2019-03-09T09:25:00Z
+-- news: <p>All known bugs in stable version was fixed which means: time for new stable release tomorrow (in around 24 hours after this post). We will see how many bugs will be found this time.</p><p>In development version this week was mostly upgrades to the game factions (races).</p><ul><li>Undead faction members was definitely too weak (especially player when selected them as the starting faction). They gained two things: natural armor which allow them to reduce damage taken in melee combat. Second thing is special toxic attack when they attack unarmed and target is not immune to diseases (most other factions members). In that situation, Undead can do a lots more damage. There still is some work to balance this faction but I should finish it in next week.</li><li>Drones got this same special thing: natural armor which reduce damage in melee combat.</li></ul><p>All special "abilities" of factions are represented as flags thus they are very easy to add/remove to others or new factions, especially that almost all game data are in XML files.</p>Additionally, development version got as usual, few bug fixes, few new bugs and few new NPC ships.</p><p>During tests I was once bit funny situation: during combat my Undead ship against Inquisition, I was sent my whole crew as boarding party on enemy ship. When we arrived, I noticed that there is only one enemy (should be 4). By the moment I was thinking that something is wrong with game data, but then I reminded myself: rest of enemy crew was set AI to boarding either. So, when I boarded them, they are boarded my own empty ship :) This ended in two different melee combats (first on enemy ship then back on my own).</p>
 -- title: Weekly development report: 2019/03/09
 -- id: 20190309
 -- updated: 2019-03-09T09:15:00Z
