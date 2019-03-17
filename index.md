@@ -67,3 +67,9 @@ available on Linux and Windows 64 bit platforms.
 - Last console (Linux only) release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
 
 - [All releases](https://github.com/thindil/steamsky/releases)
+
+## Donate
+If you want to support the game development, you can donate some money by
+Liberapay.
+
+<a href="https://liberapay.com/thindil/donate" class="image"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
