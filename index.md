@@ -70,6 +70,6 @@ available on Linux and Windows 64 bit platforms.
 
 ## Donate
 If you want to support the game development, you can donate some money by
-Liberapay.
+Liberapay or Patreon.
 
-<a href="https://liberapay.com/thindil/donate" class="image"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<a href="https://liberapay.com/thindil/donate" class="image"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> <a href="https://www.patreon.com/bePatron?u=18286719" class="image"><img alt="Become a Patron!" src="assets/images/patreon.png" width="150"></a>
