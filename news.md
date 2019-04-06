@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/04/06
+-- id: 20190406
+-- updated: 2019-04-06T08:14:00Z
+-- news: <p>As usual, for stable version: few days after stable release few small bugs arrived from code. Captured, taken to interrogation and we will see did they tell something about they friends in code :)</p><p>Development version is same as stable plus few new things:</p><ul><li>Optimized a bit save game files. It will no longer save default values to file - this should reduce size of save game files, especially for late-game saves.</li><li>Now it is possible to negotiate reward for available missions in bases before accepting them. Player can choice did he/she wants more money or more reputation (everyone likes people who works for free :) ). This should help with gaining reputation in bases either. And after reaching max reputation in base, there still will be sense to do missions in that base.</li><li>Transport passengers missions got some revamp. Earlier passengers were very picky - they demanded exact type of cabin for them during transport. I was done small talk with them and they promised to changed they mind. Now they only demand selected or better quality of the cabin to travel. This should made this type of missions more desirable and fun.</li><li>Filling game data continue: again, few new weapons and crafting recipes for them were added to the game.</li></ul>
 -- title: Stable release: 3.0.8
 -- id: 20190331
 -- updated: 2019-03-31T04:55:00Z
