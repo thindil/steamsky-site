@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/04/13
+-- id: 20190413
+-- updated: 2019-04-13T07:55:00Z
+-- news: <p>Stable version: interrogation of bugs started in last week was a good idea - again, few new emerged from nowhere, caught and tomorrow, in less than 24 hours since this post, new stable version will be released. Additionally, stable version got one important change - use of fuel during waiting in place was reduced (not that much as in development version, but still, this should made the game more playable).</p><p>Development version: Same as almost every week: few new weapons and crafting recipes for them were added and one new skill to use this weapons. Bugs from stable version was ported to development so they was fixed here too. And biggest work for this week: started work on debug (or like other can call it: cheat) menu. At this moment it is very basic thing - allow only move ship and edit crew members on the player ship. I hope in next week I will have some screenshots to show.</p>
 -- title: Weekly development report: 2019/04/06
 -- id: 20190406
 -- updated: 2019-04-06T08:14:00Z
