@@ -4,10 +4,14 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Development release: 3.6
+-- id: 20190421
+-- updated: 2019-04-21T05:05:00Z
+-- news: <p>Development version <a href="https://github.com/thindil/steamsky/releases/tag/v3.6-dev">3.6</a> was released.</p>
 -- title: Weekly development report: 2019/04/20
 -- id: 20190420
 -- updated: 2019-04-20T08:20:00Z
--- news:<p>At beginning of the week, stable version was very quiet - as always before storm :) At the start of the weekend bugs were appeared. All should be fixed before next Sunday so new more stable version of the game will be available :) Another important chance in the stable version: amount of experience needed for raising skills and attributes was reduced. This should made the game a bit more balanced (and less grindy) :)</p><p>Almost whole week in development was focused mostly on creating debug (or cheat as someone calls) menu. It is at this moment very basic but should allow to edit most of the game data inside the game without fun with save files. And as promised last week: here are some screenshots:</p><ul><li><a href="https://thindil.github.io/steamsky/assets/images/debug-crew.png">Editing crew member</a></li><li><a href="https://thindil.github.io/steamsky/assets/images/debug-bases.png">Editing selected sky base</a></li></ul><p>And like usual - added one new skill for using melee weapons and few new melee weapons plus crafting recipes for them.</p><p>By the way: it is again time, for release new the development version of the game. Let everyone have fun with bugs and unbalanced new thingies :) In less than 24 hours since this post, new version will be available to download.</p>
+-- news: <p>At beginning of the week, stable version was very quiet - as always before storm :) At the start of the weekend bugs were appeared. All should be fixed before next Sunday so new more stable version of the game will be available :) Another important chance in the stable version: amount of experience needed for raising skills and attributes was reduced. This should made the game a bit more balanced (and less grindy) :)</p><p>Almost whole week in development was focused mostly on creating debug (or cheat as someone calls) menu. It is at this moment very basic but should allow to edit most of the game data inside the game without fun with save files. And as promised last week: here are some screenshots:</p><ul><li><a href="https://thindil.github.io/steamsky/assets/images/debug-crew.png">Editing crew member</a></li><li><a href="https://thindil.github.io/steamsky/assets/images/debug-bases.png">Editing selected sky base</a></li></ul><p>And like usual - added one new skill for using melee weapons and few new melee weapons plus crafting recipes for them.</p><p>By the way: it is again time, for release new the development version of the game. Let everyone have fun with bugs and unbalanced new thingies :) In less than 24 hours since this post, new version will be available to download.</p>
 -- title: Stable release: 3.0.9
 -- id: 20190414
 -- updated: 2019-04-14T05:08:00Z
