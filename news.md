@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/04/27
+-- id: 20190427
+-- updated: 2019-04-27T07:30:00Z
+-- news: <p>In stable version as usual: almost whole week dedicated to hunting and fixing bugs. Most and worst of them probably are captured and reeducated. This mean that in less than 24 hours since this post, new more stable version of the game will be released.</p><p>In development version week was spent on fixing these same bugs as in the stable version plus:</p><ul><li>Debug menu got options to delete events and save game. This second is done in pretty print mode, thus that save should be easier to investigate. Additionally, whole debug menu got some tool-tips, so it usage should be less cryptic than it was :)</li><li>Started work on new game feature: difficulty settings. Instead of creating artificial difficulty levels, it will let the player select some game behaviors - lower or raise enemy damage, speed of gained experience and reputation in bases, etc. This should give even more replayability to the game (especially when the player will use Random option). Additionally it will help players to tweak the game to they needs: if someone will want short game session, then can set everything to easiest levels and vice versa. Whole difficulty setting will have impact on gained in-game points either. And yes, here is a <a href="https://thindil.github.io/steamsky/assets/images/difficulty.png">screenshot</a> of this settings in new game. :)</li><li>As almost every week - added few new melee weapons and crafting recipes for them to the game.</li></ul>
 -- title: Development release: 3.6
 -- id: 20190421
 -- updated: 2019-04-21T05:05:00Z
