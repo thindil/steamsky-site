@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/05/04
+-- id: 20190504
+-- updated: 2019-05-04T07:30:00Z
+-- news: <p>I think I will start copy/paste information about what's going on in stable version: bugs, bugs, bugs and again bugs fixing (probably literally short for all commits to the stable version). There are still few of them noticed/reported thus expect this same message in next week either. And in next week. And next. And... :)</p><p>In development version:</p><ul><li>Porting fixes of bugs from stable version. Plus probably added some new for the balance.</li><li>Almost (only one position left) finished adding new melee weapons to the game. Finally, whole system with damage types will be used (cutting damage = balanced, impaling = best against unarmored targets, blunt = best again heavy armored targets).</li><li>Main work in this week was implementation of difficulty settings for the game. All of them now implemented, plus added system which should be easy to expand if someone or I will have any idea for more options. First tests looks promising, especially with combat: setting player damage to lowest and enemy damage to highest setting and I was mutilated by one of the weakest enemies in the game :)</li></ul>
 -- title: Stable release: 3.0.10
 -- id: 20190428
 -- updated: 2019-04-28T05:17:00Z
