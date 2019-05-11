@@ -3,6 +3,10 @@
 -- title: []
 -- id: []
 -- updated: []
+-- title: Weekly development report: 2019/05/11
+-- id: 20190511
+-- updated: 2019-05-11T09:52:00Z
+-- news: <p>Stable version this week got some translations from Engrish to English. Or at least I hope that I fixed this typos, etc correctly :) Additionally, there was fixed some small bugs in UI. Looks like stable version is ready to release again. I noticed that this is best way to encourage people to write some "warm" mails, etc about bugs in the game :) So, in less than 24 hours since this post, new version stable version of the game will be available to download.</p><p>Development version report is almost that same boring like stable version this time: same bugs and translations are done. Most time this week was taken by adding new mobiles to the game - the new crews for player and NPC's ships which depends on factions. Now each faction(race) will have own preferred weapon. If I good count, around 100 new mobs are arrived in the game this week.</p>
 -- news: []
 -- title: Weekly development report: 2019/05/04
 -- id: 20190504
