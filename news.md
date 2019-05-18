@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/05/18
+-- id: 20190518
+-- updated: 2019-05-18T07:57:00Z
+-- news: <p>In stable version, peace and quiet... probably nobody was downloaded it yet, whole week without bugs... weird feeling :)</p><p>Development version got some changes as usual:</p><ul><li>Here bugs are almost always, so few of them was fixed - mostly with missing info about some player actions (like dropping cargo, etc)</li><li>Small come back to UI work: added simple info when player trying to sell food or drinks below low level (which of course, player can set in the game options)</li><li>Some other small changes to UI towards "jumping-windows free" zone.</li><li>Added stopping auto-movement on low level of food/drinks/fuel. This should prevent some sudden deaths during travelling.</li><li>Finally, crew is less lazy: they wake up and take theirs positions when combat starts. Even better - they don't leave theirs positions during combat to go sleep. And all this nice things just with "small" drawback - if player will do this too often, crew morale can go pretty fast down.</li><li>Work on NPC's ships crews continue: this time pirates and drones factions got they unique weapons. Inquisition transformation just started.</li></ul><p>And one thing - it is almost 4 weeks after last development release. Thus now it is time for another :) In less than 24 hours since this post, new development version will be available to download. You will be able to test all this new bugs introduced to the game :)</p>
 -- title: Stable release: 3.0.11
 -- id: 20190512
 -- updated: 2019-05-12T04:57:00Z
