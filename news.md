@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Development release: 3.7
+-- id: 20190519
+-- updated: 2019-05-19T05:41:00Z
+-- news: <p>Development version <a href="https://github.com/thindil/steamsky/releases/tag/v3.7-dev">3.7</a> was released.</p>
 -- title: Weekly development report: 2019/05/18
 -- id: 20190518
 -- updated: 2019-05-18T07:57:00Z
