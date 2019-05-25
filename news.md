@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/05/25
+-- id: 20190525
+-- updated: 2019-05-25T07:33:00Z
+-- news: <p>Stable version: now I'm sure that nobody downloaded it yet - second week without bugs or problems, hard to believe :)</p><p>Development version: here, fortunately, bugs thriving and growing :)</p><ul><li>Some of them was fixed - mostly wrong mobs as crews members on some NPC ships.</li><li>As a new development version, lets start with something big: now cabins and all "workshops" (alchemy labs, furnaces, etc) can have many owners/workers. This should reduce a bit micromanagement, especially in crafting. I plan to add this feature to training and medical rooms either, plus maybe few other modules, but this time this will be much more ground breaking change to the game. Additionally, this change caused, that a lot of new ships modules will arrive soon in the game. One good thing about this: even if (obviously) this changed how game data is saved, old saves (from current stable version) still works.</li><li>Rest of week was focused on fixing all this new bugs caused by new owners/workers of ship's modules system.</li></ul>
 -- title: Development release: 3.7
 -- id: 20190519
 -- updated: 2019-05-19T05:41:00Z
