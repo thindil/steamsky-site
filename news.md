@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/06/01
+-- id: 20190601
+-- updated: 2019-06-01T07:57:00Z
+-- news: <p>Well, asking for troubles by two weeks, or in other words: announcing that there no bugs in the stable version, finally brings some effects - few bugs emerged from nowhere. Caught, probably fixed and due to this, in less than 24 hours new, more stable, "stable" version will be released.</p><p>In development version: this same bugs were fixed plus work was continuing on adding more owners and workers to the ship's modules: this time for training rooms and medical rooms. Additionally, I started again adding new ship's modules to the game.</p><p>Additionally, partially related to the game development: in this week new version of the Ada compiler (GNAT GPL) was released. Fortunately, everything works as expected, just annual time to switch a bit code formatting :)</p>
 -- title: Weekly development report: 2019/05/25
 -- id: 20190525
 -- updated: 2019-05-25T07:33:00Z
