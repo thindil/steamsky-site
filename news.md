@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Stable release: 3.0.12
+-- id: 20190602
+-- updated: 2019-06-02T05:03:00Z
+-- news: <p>Stable version <a href="https://github.com/thindil/steamsky/releases/tag/v3.0.12">3.0.12</a> was released.</p>
 -- title: Weekly development report: 2019/06/01
 -- id: 20190601
 -- updated: 2019-06-01T07:57:00Z
