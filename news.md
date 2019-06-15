@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/06/15
+-- id: 20190615
+-- updated: 2019-06-15T09:57:00Z
+-- news: <p>In stable version - few bugs was caught and fixed. Let's wait one week more, so maybe something other will appear too to fix.</p><p>In development version - in this week development was mainly focused on tweaking last changes, especially new ship upgrades system. Now this looks a lot better than was earlier - better scaling and not require few months of play to upgrade one ship module... unless player will set that difficulty level :)</p><p>UI got some small but visible tweaks either: mostly options and actions which was by default hidden now are by default visible.</p><p>New thing is not too "roguelikish": added option to enable/disable ability to auto saving the game and option to set how often it should be done (on dock/undock from bases or by some in game time). By default auto saving is disabled.</p><p>And standard thing: few bugs are caught, few "hidden features" inserted to the game plus again, around dozen new ships modules were added to the game.</p><p>Last thing: because since last development release there was almost 4 weeks, now it is time to prepare new: in less than 24 hours since this post, everyone will able to have some fun with new bugs :)</p>
 -- title: Weekly development report: 2019/06/08
 -- id: 20190608
 -- updated: 2019-06-08T07:39:00Z
