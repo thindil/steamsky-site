@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/06/22
+-- id: 20190622
+-- updated: 2019-06-22T09:35:00Z
+-- news: <p>Generally, this week was a bit lazy in the game development:</p><p>Stable version got nothing in this week, which is good, because it means no new bugs spotted. There probably only old bugs left hidden somewhere. Anyway, it is time to release new stable version with current fixes. In less than 24 hours since this post, new, more stable version of the game will be released.</p><p>Development version by whole week got mostly tweaks to existing things:</p><ul><li>Missing priority for training on ship for crew members was added.</li><li>Help, as content and UI got some upgrades.</li><li>Debug menu got option to edit player ship modules. This thing got most of the time in this week.</li><li>Some bugs, especially related to the Linux AppImage version of the game were fixed.</li><li>As usual, around dozen of new ship modules - cabins, arrived in the game.</li></ul>
 -- title: Development release: 3.8
 -- id: 20190616
 -- updated: 2019-06-16T05:07:00Z
