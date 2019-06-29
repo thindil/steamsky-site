@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/06/29
+-- id: 20190629
+-- updated: 2019-06-29T09:35:00Z
+-- news: <p>On stable version front: peace and quiet. Probably I miss some mails from players about bugs in the game ;)</p><p>Development version journey continue as usual:</p><ul><li>Updated debug menu with option to edit amount of money in selected sky base. And this was almost immediately helped find one bug in the development version :)</li><li>Almost whole rest of the week was dedicated to changes in the game interface. I was always bit not satisfied with main the game font, but by long time I was unable to find anything good. Until now. I finally found a font which looks good for me :) <a href="assets/images/newfont.png">Here</a> is screenshot with comparison: up is the game with old font, below new version with new font. I think it is a bit more readable, thus I set it for help too. This make whole the game interface a bit more cohesive. Other changes with UI are not so visible, mostly small tweaks and bug fixes.</li><li>Copy&Paste from last week: around dozen new ships modules added to the game.</li><li>Copy&Paste from always: caught few bugs and replaced them with new "features" :)</li></ul><p>Outside the code: website of the game got small refresh too: mostly by added new fonts, so at least players will be warned from start how new version of the game will be looks :)</p>
 -- title: Stable release: 3.0.13
 -- id: 20190623
 -- updated: 2019-06-23T06:49:00Z
