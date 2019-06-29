@@ -5,8 +5,8 @@ commander of a flying ship, as leader you will be traveling across floating
 bases, engaging in combat, trading goods etc. The game is more strategy
 based than tactical like most of roguelikes. There is no mandatory ending
 to this game, you may freely play until your character die. The game is
-currently under heavy development, but is in a playable state. Steam Sky is
-available on Linux and Windows 64 bit platforms.
+currently in a development, but is in a playable state. Steam Sky is available
+on Linux and Windows 64 bit platforms.
 
 ## Features
 - Buy cheaply, sell expensive: find best trade routes between sky bases.
