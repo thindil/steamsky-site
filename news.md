@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/07/06
+-- id: 20190706
+-- updated: 2019-07-06T09:35:00Z
+-- news: <p>Stable version: again nothing to report. Which mean one important thing: current version (3.0.13) will be probably last release for the 3.0 version of the game. Soon(TM), new (and last in this cycle) development version will be released and whole work will be only focused on preparing new stable version of the game.</p><p>And for now, in the development version: whole week dedicated to breaking and fixing (and breaking again) user interface of the game:</p><ul><li>Bases list got small redesign - mostly to look similar to other info screens. But additionally, it got option to hide or show detailed information about selected base.</li><li>Something under the hood - the game finally can remember did the player was hide details about bases or items and present information in proper way.</li><li>Same with few others UI settings (for example size of help topics list) was added to the game configuration, thus player again, not need to resize UI every time when open the game.</li><li>Some work with ability to shrink the game window. It is still unable to play on post stamp (and similar size screens) but I'm slowly work in this direction :)</li><li>Again, few new ships modules were added to the game.</li><li>Some features are fixed and new bugs added as usual :)</li></ul>
 -- title: Weekly development report: 2019/06/29
 -- id: 20190629
 -- updated: 2019-06-29T09:35:00Z
