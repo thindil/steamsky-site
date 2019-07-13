@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/07/13
+-- id: 20190713
+-- updated: 2019-07-13T09:38:00Z
+-- news: <p>Again, nothing to report in the stable version, which mean one: current stable release (3.0.13) will be last in 3.0.x series. Main reason: the development version soon (soon = around month) will be changed in new stable.</p><p>Speaking of which, again, week dedicated to something what can be called "fixing paper-cuts in UI":</p><ul><li>Crew member statistics always was growing very slowly and there was lack of info about the progress. Which caused that pretty often people reported that they don't get any experience in stats :) Now every statistic and skill have own, additional small progress bar to show how much experience is needed to reach a next level in them.</li><li>Added very short info about player ship's crew to ship info. Now almost all important information are on one screen. This should reduce flipping between screens a bit.</li><li>Added, at this moment bit short, "first steps" info to help, to help new players to find self in the game: how to earn money, what to upgrade on ship first, on what focus in early stage of the game, etc.</li><li>Now it is possible to see whole ship, crew and cargo info after player character death.</li><li>As usual fixed some good things by replacing them with bugs :)</li><li>Immortal part: again around dozen of new ship modules arrived in the game.</li></ul><p>And as mentioned in stable version info: it is time to release last development version of 4.0 series. In less than 24 hours since this post, new version will be available to download. Since then, work on current stable will be completely stopped and all will be done at development version. Just, there will be no new things, only fixed and (probably) technobabble info about glorious optimizations which save 0.1 sec from player life :)</p>
 -- title: Weekly development report: 2019/07/06
 -- id: 20190706
 -- updated: 2019-07-06T09:35:00Z
