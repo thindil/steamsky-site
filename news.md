@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/07/20
+-- id: 20190720
+-- updated: 2019-07-20T09:46:00Z
+-- news: <p>Starting first of "All Quiet on the Western Front" post series, which were promised one week ago ;) All current work is focused on fixing and tweaking the development version of the game. From players perspective, this week brings:</p><ul><li>Small updates to UI</li><li>Updated help</li><li>Updated starting ships for Undead and Drones factions. Especially Undead got nice boots again.</li><li>Few bugs were fixed</li><li>Around dozen new ship modules</li></ul><p>Main work in the week was inside the code: I was decided to "pacify" code documentation "a bit" and switch to <a href="https://rfsber.home.xs4all.nl/Robo/">ROBODoc</a> style, so there will be soon a real code documentation too. At this moment this work is around half done. At least I will find all this undocumented parts :)</p>
 -- title: Development release: 3.9
 -- id: 20190714
 -- updated: 2019-07-14T04:57:00Z
