@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/07/27
+-- id: 20190727
+-- updated: 2019-07-27T07:23:00Z
+-- news: <p>Second week of preparations to release next major version of the game. And almost literally it can be just a link to previous post :) Still main work is updating code documentation: formatting is done, generating it too, just now most funny part: finding all this missing parts which need to be documented. Some visible changes:</p><ul><li>Small tweaks to UI, mostly to organize it better on screen</li><li>Added info about attributes levels for crew members and recruits (something like "very low", "medium", etc)</li><li>Added to all tools info about they chance to damage during usage.</li><li>Found few bugs which was fixed or replaced by new :)</li><li>Same as usual amount of new ship modules was added.</li></ul><p>And, just for fun, I just run <code>git log --reverse</code> in the game code. Looks like first commit was almost exactly 3 years ago. Yay :)</p>
 -- title: Weekly development report: 2019/07/20
 -- id: 20190720
 -- updated: 2019-07-20T09:46:00Z
