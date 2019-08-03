@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/08/03
+-- id: 20190803
+-- updated: 2019-08-03T07:40:00Z
+-- news: <p>Third week of preparation for next major stable release of the game:</p><ul><li>Finally finished work with code documentation and this was helped to find few places in code to clean.</li><li>Fixed some bugs found during tests - mostly notable problem with displaying movement buttons on Windows.</li><li>Added short info about ship's weapons strength. Now it should be easier for players to decide if they want to upgrade existing weapon or replace with new.</li><li>As usual, around dozen of new ship's modules have arrived.</li></ul>
 -- title: Weekly development report: 2019/07/27
 -- id: 20190727
 -- updated: 2019-07-27T07:23:00Z
