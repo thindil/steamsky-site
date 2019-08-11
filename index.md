@@ -17,8 +17,8 @@ on Linux and Windows 64 bit platforms.
 
 - Do randomly generated missions to gain money and reputation at sky bases.
 
-    Patrol selected map areas, explore unvisited areas, deliver items to bases,
-    etc. Some missions may require some free cargo space, others may depends on
+    Patrol selected map areas, explore new areas, deliver items to bases, etc.
+    Some missions may require some free cargo space, others may depends on
     installed ship modules.
 
 - Manage your ship's crew: give them orders, hire new ones or dismiss old
@@ -39,17 +39,19 @@ on Linux and Windows 64 bit platforms.
 
 - Craft items: from tools through repair materials to food.
 
-    At start you know only few basic crafting recipes. New recipes may be
-    bought from bases or discovered by deconstructing items. Better crafter can
-    craft more items from this same amount of materials.
+    At the start your character know only few basic crafting recipes. New
+    recipes may be bought from bases or discovered by deconstructing items.
+    Better manufacturer can craft more items from this same amount of
+    materials.
 
 - Fight with enemy ships in tactical combat.
 
-    Give orders to your crew at begining of each combat round and watch result
-    when turn passed. Change ship speed, position of ship in combat or give
-    your gunners orders to attack selected part of enemy ship. Take down
-    enemies armor to board they ships for melee combat for even better loot. If
-    enemy is too strong for you, you can try escape from combat too.
+    Give orders to your crew at the beginning of each combat round and watch
+    the result when turn passed. Change your ship speed, position of your ship
+    in the combat or give your gunners orders to attack selected part of the
+    enemy ship. Take down enemies armor to board they ships for melee combat
+    for better loot. If enemy is too strong for you, you can try escape from
+    the combat too.
 
 - Your game, your way: change the game to your own style.
 
