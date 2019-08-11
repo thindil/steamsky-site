@@ -60,9 +60,11 @@ on Linux and Windows 64 bit platforms.
     can be tweaked to your needs.
 
 ## <a name="downloads"></a>Downloads
-- Latest stable release: [3.0.13](https://github.com/thindil/steamsky/releases/tag/v3.0.13) (2019-06-23)
+- Latest stable release: [4.0](https://github.com/thindil/steamsky/releases/tag/v4.0) (2019-08-11)
 
 - Latest development release: [3.9-dev](https://github.com/thindil/steamsky/releases/tag/v3.9-dev) (2019-07-14)
+
+- Old stable release: [3.0.13](https://github.com/thindil/steamsky/releases/tag/v3.0.13) (2019-06-23)
 
 - Last console (Linux only) release: [2.0.11](https://github.com/thindil/steamsky/releases/tag/v2.0.11) (2018-09-30)
 
