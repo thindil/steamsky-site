@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/08/17
+-- id: 20190817
+-- updated: 2019-08-17T07:45:00Z
+-- news: <p>After last few weeks of monotony in news from the game, everything slowly back to normal:</p><p>New major stable version (4.0) was released. Of course, as usual, few bugs are emerged exactly after this. So, in less than 24 hours after this post, another, bit more stable version will be released.</p><p>In the development version, this week was mostly work organization week: updated code repositories, simplified some tools (mostly this for creating code documentation), some code cleanup, etc. And of course, fixed this same bugs from the stable version and as always, added few new ships modules to the game.</p>
 -- title: Stable release: 4.0
 -- id: 20190811
 -- updated: 2019-08-11T05:02:00Z
