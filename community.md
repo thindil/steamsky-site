@@ -10,8 +10,8 @@ from list below.
 
 ### Discord channel
 
-And [Discord](https://discord.gg) text channel is available too. Just accept
-this invitation:
+[Discord](https://discord.gg) text channel is probably most preferred by
+players. Just accept this invitation:
 
 [Join Discord Steam Sky channel](https://discord.gg/r5R8Mnx)
 
