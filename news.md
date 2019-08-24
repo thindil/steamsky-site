@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/08/24
+-- id: 20190824
+-- updated: 2019-08-24T07:39:00Z
+-- news: <p>Motto for this week: "If you want to make God laugh, tell him about your plans." Woody Allen.</p><p>In stable version: of course, after release new version of the game, one new bug was emerged from nowhere. Caught, changed on (probably) something new and fun with investigating starts again.</p><p>In development version: as motto says, plans was to start adding new features to the game. But the only new thing this week are few new ship modules (almost like always). Whole week was dedicated to the organization of build system: trying to simplify and automatize it. Plus of course fixed this same bug which was in stable version.</p>
 -- title: Stable release: 4.0.1
 -- id: 20190818
 -- updated: 2019-08-18T04:50:00Z
