@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/08/31
+-- id: 20190831
+-- updated: 2019-08-31T07:37:00Z
+-- news: <p>In stable version it was another almost quiet week. Just added one balance change - in combat all traders ships was "bit" too fast, thus now they have some more cargo inside. And in less than 24 after this post new, more stable version of the game will be available.</p><p>Development version of course got this same balance change too but here is additional change: all enemy ships got more, random (in amount and type) cargo. And this mean that fight is now even more interesting than earlier:</p><ul><li>Because of random amount almost every enemy ship have own speed. Even if they are from this same prototype. It means not only how fast they can approach player but also chance to hit player ship and being damaged by the player. Even more randomness to fight :)</li><li>Boarding enemy ships finally is almost that same profitable like doing missions or trading between bases. Fight without trying to board enemy ship is still less profitable, but as is said: no pain, no gain ;)</li><li>Of course, start of development cycle so, why not change something in the game look? I was not too satisfied with look of in-game progress bars, so changed them from rounded to more gem-like. <a href="assets/images/20190831.png">Here</a> is screenshot of how it looks now. If you think that is worse than was, feel free to scream on me (best if on the game chat, so others can join you :) )</li><li>As usual, few new ship modules arrived.</li><li>Some work was also inside the code - mostly code cleanup and few new unit tests. Let's say I'm preparing myself and the game for another bugs :)</li></ul>
 -- title: Weekly development report: 2019/08/24
 -- id: 20190824
 -- updated: 2019-08-24T07:39:00Z
