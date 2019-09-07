@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/09/07
+-- id: 20190907
+-- updated: 2019-09-07T08:13:00Z
+-- news: <p>Stable version: as usual, one bug always must be caught exactly one day after release. Maybe time to start releasing the game in Tuesdays instead of Sundays? :) Fortunately, nothing serious, thus this can wait a moment before next version will be available.</p><p>Especially that development version finally started getting something new:</p><ul><li>Styling the game should be now a bit easier - most of colors are moved to the top of default theme file, thus if someone wants to change only the game colors, it should be now a lot easier.</li><li>Some time ago, one of the players on the chat gave interesting proposition about the game: unique bases for each faction. This will require some work to do, but at least this work was just started: I moved all current types of bases from code to the text file. This mean, now changing name, description or color on the map of selected type of bases require only editing text file and not whole the game code. Additionally, to this file was moved also buy prices for selected items and crafting recipes which can be bought in that type of bases.</li><li>A few new ship modules are arrived too. But this is almost constant part of the development in last months :)</li><li>Fixed some old bugs and added new... oh, wait, it was above, in the new system of types of bases :)</li><li>And it is time to release new development version of the game. In less than 24 hours since this post, it will be available to download.</li></ul>
 -- title: Stable release: 4.0.2
 -- id: 20190901
 -- updated: 2019-09-01T05:09:00Z
