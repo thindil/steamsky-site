@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/09/14
+-- id: 20190914
+-- updated: 2019-09-14T07:56:00Z
+-- news: <p>In the stable version, probably all bugs are waiting for the new stable release to emerge. So, let's give them this chance :) In less than 24 hours since this post, new release will be available for download.</p><p>Development version: most changes in this week are continuation of previous week work: preparation for adding option to each faction to have own unique bases. This changes can be interesting mostly for someone who modded the game:</p><ul><li>Items data file has changed old price information with new unified one price. This price will be used when any base type don't have set own. This changed "a bit" structure of the items data, but fortunately, old item data files will be works too with new system.</li><li>Crafting recipes data file has removed info about base type where it can be bought, because now this information is in bases types data file.</li></ul><p>And as usual, few new ships modules were added to the game and under the hood - few new unit tests were written too.</p>
 -- title: Development release: 4.1
 -- id: 20190908
 -- updated: 2019-09-08T05:22:00Z
