@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/09/21
+-- id: 20190921
+-- updated: 2019-09-21T05:26:00Z
+-- news:<p>In stable version, as usual, release was successful: another bug was found. At least this bug prove that people don't cheat in the game, because it is in debug options :) Of course, as usual, let's wait one week before next release, maybe something more will be found too.</p><p>Development version still focused on adding unique bases types for each faction. Or maybe better to write: preparing for it:</p><ul><li>Restored option to set separated price for each item in each base type. Just now it is in bases types data file not in items data file.</li><li>Added ability to set which bases types are available for each faction. By default all bases types are available for every faction, but players now can modify it in factions data file.</li><li>Added option to set spawn chance for each base type for each faction. Sound simple, but can have a large impact on the game. Now should be a bit easier to find Agricultural base for Poleis faction and Refinery for Drones - which mean easier to find food and drinks for the player ship crew. Again, everything is available to modify in factions data file, so players can easily customize this for they needs.</li><li>Fixed some small bugs, cleared the game code a bit, few new unit tests were written.</li><li>And copy+paste: again added few new ship modules to the game.</li></ul>
 -- title: Stable release: 4.0.3
 -- id: 20190915
 -- updated: 2019-09-15T04:50:00Z
