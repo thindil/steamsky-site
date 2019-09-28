@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/09/28
+-- id: 20190928
+-- updated: 2019-09-28T07:53:00Z
+-- news: <p>Stable version: some typos were fixed in documentation, but nothing new (or fixed) in the code. Which mean, in less than 24 hours after this post, here will be started another bug hunt called "stable release" :)</p><p>Development version:</p><p>Finally started work on new bases types, unique for each faction. It is done mostly by adding new flags to bases definitions in data file. For example you can add shipyard to Agricultural bases just by adding proper flag to it. Additionally, same flags used in help allow to dynamically show proper bases types. For example if someone adds shipyard to Agricultural base, in help text, where this same flag is used, will be info that shipyard is available in two bases types: Shipyard and Agricultural. Let's hope this not look too complicated :)</p><p>After creating proper system now it is time to start adding new bases types. For now only one arrived: Temple for the Inquisition. In that base type is available new action: Pray, which raise player character and the player ship crew members morale after some time. Additionally, Temple base have cheaper option for healing wounded crew members.</p><p>And as usual, around dozen new ship modules were added to the game, and under the hood: fun with unit tests continue.</p>
 -- title: Weekly development report: 2019/09/21
 -- id: 20190921
 -- updated: 2019-09-21T05:26:00Z
