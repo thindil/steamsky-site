@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/10/05
+-- id: 20191005
+-- updated: 2019-10-05T05:15:00Z
+-- news: <p>In stable version, stable week - no bugs found or reported. Weird. Even adding the game to Itch.io not helped. This mean that, or no one downloaded the game or there is so many bugs that people give up with reporting them :)</p><p>Development version: whole week was dedicated to creation of a new bases types:</p><ul><li>Added Black market base type: this type of bases have random goods for sale. It is available only for Pirates faction.</li><li>Added Factory base type: this is just merged Industrial and Shipyard. At this moment it is not added to any faction yet.</li><li>In-game help got a few new markers to use inside text, which when used will be changed on list of bases types with proper flag (for example, using {shipyard} will be replaced with Shipyard, Factory).</li><li>In-game help was updated with information about features of freshly created bases types.</li><li>Adding new ship modules was almost finished. Just few left for the next week. Yay :)</li></ul><p>And because since last development release passed almost 4 weeks, in less than 24 hours after this post, new development version will be available for download.</p>
 -- title: Stable release: 4.0.4
 -- id: 20190929
 -- updated: 2019-09-29T05:01:00Z
