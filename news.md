@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/10/12
+-- id: 20191012
+-- updated: 2019-10-12T05:09:00Z
+-- news: <p>Finally, putting the game on Itch.io repays: few bugs were caught and new stable version will be released in less than 24 hours since this post. And then probably Murphy's Laws will strike back again :)</p><p>Development version:</p><ul><li>Finally finished adding ship modules. At least for some time. This caused that most of NPC's ships were changed too, with replaced some modules.</li><li>Work on unique bases types for each faction continue: Drones got Factory (which is mix of Industrial and Shipyard bases types) and lost Industrial and Shipyard. Independents got Market (which is mix of Shipyard and Black Market bases types).</li><li>Literally a couple of new items (with crafting recipes for them) are arrived in the game.</li><li>Of course, bugs from stable version were found in development too. And fixed. I hope.</li></ul>
 -- title: Development release: 4.2
 -- id: 20191006
 -- updated: 2019-10-06T05:02:00Z
