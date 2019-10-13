@@ -62,7 +62,7 @@ on Linux and Windows 64 bit platforms.
     can be tweaked to your needs.
 
 ## <a name="downloads"></a>Downloads
-- Latest stable release: [4.0.4](https://github.com/thindil/steamsky/releases/tag/v4.0.4) (2019-09-29)
+- Latest stable release: [4.0.5](https://github.com/thindil/steamsky/releases/tag/v4.0.5) (2019-10-13)
 
 - Latest development release: [4.2-dev](https://github.com/thindil/steamsky/releases/tag/v4.2-dev) (2019-10-06)
 
