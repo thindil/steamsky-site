@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/10/19
+-- id: 20191019
+-- updated: 2019-10-19T05:32:00Z
+-- news: <p>Stable version again proved that it is not stable :) This time two nasty bugs were reported - they are nasty enough to require new release of the game. Which will be available for download in around 24 hours sice this post.</p><p>Development version:</p><ul><li>If someone likes to be dirty: support for Travis and "very development" versions of the game were added. Now you don't need to wait for new development release to get new bugs...er, features of course. The only think about this auto releases is that they need some "assembly" before it can run. But let's hope this time, documentation is good enough to provide some information how to do it.</li><li>New base type: Barracks. In that bases recruits there are more recruits available and they are cheaper than in other bases types. For now it was not added yet to any faction in the game.</li><li>Added some new items and crafting recipes for them.</li><li>Bugs from stable version were fixed here too.</li></ul>
 -- title: Stable release: 4.0.5
 -- id: 20191013
 -- updated: 2019-10-13T04:53:00Z
