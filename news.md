@@ -4,6 +4,10 @@
 -- id: []
 -- updated: []
 -- news: []
+-- title: Weekly development report: 2019/11/02
+-- id: 20191102
+-- updated: 2019-11-02T06:09:00Z
+-- news: <p>As expected, everyone was busy with Halloween, just right after it, I've got nice feedback about the game with almost same nice amount of bugs reports :) This mean that probably next week will be dedicated to fixing them.</p><p>Development version got finally finished cleanup of developers tools - most of scripts needed for creating the game are hidden, everything can now be run with one command (and lots of arguments for it). From player point of view, factions got updated descriptions with info about unique bases types and as usual few new items and crafting recipes for them are added to the game.</p><p>And because last development release was 4 weeks ago, now it is time to release new. In less than 24 hours since this post, new development version of the game will arrive.</p>
 -- title: Weekly development report: 2019/10/26
 -- id: 20191026
 -- updated: 2019-10-19T05:29:00Z
