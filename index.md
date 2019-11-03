@@ -64,7 +64,7 @@ on Linux and Windows 64 bit platforms.
 ## <a name="downloads"></a>Downloads
 - Latest stable release: [4.0.6](https://github.com/thindil/steamsky/releases/tag/v4.0.6) (2019-10-20)
 
-- Latest development release: [4.2-dev](https://github.com/thindil/steamsky/releases/tag/v4.2-dev) (2019-10-06)
+- Latest development release: [4.3-dev](https://github.com/thindil/steamsky/releases/tag/v4.3-dev) (2019-11-03)
 
 - Old stable release: [3.0.13](https://github.com/thindil/steamsky/releases/tag/v3.0.13) (2019-06-23)
 
