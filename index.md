@@ -1,5 +1,10 @@
 -- layout: default
 -- title: Steam Sky | Roguelike in a sky with steampunk theme
+
+**IMPORTANT The game page was moved to [https://thindil.itch.io/steam-sky](https://thindil.itch.io/steam-sky)
+This page is now archived and can contains outdated informations about
+the game.**
+
 Steam Sky is an open source roguelike with a steampunk setting. You are a
 commander of a flying ship, as leader you will be traveling across floating
 bases, engaging in combat, trading goods etc. The game is more strategy
